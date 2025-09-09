@@ -1,7 +1,7 @@
 
 # :zap: Abdul Hadi
 
-`Software Engineer`
+`Frontend Developer`
 
 Hi, I’m Abdul — a frontend developer with a strong focus on building web applications that balance modern technology with clean, intuitive design. I’m passionate about crafting user experiences that feel effortless yet engaging, where every detail contributes to both functionality and aesthetic impact. For me, development is not just about writing code — it’s about creating digital experiences that are memorable, accessible, and built to last.
 
