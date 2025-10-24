@@ -3,7 +3,7 @@
 
 `Frontend Developer`
 
-Hi, I’m Abdul — a frontend developer with a strong focus on building web applications that balance modern technology with clean, intuitive design. I’m passionate about crafting user experiences that feel effortless yet engaging, where every detail contributes to both functionality and aesthetic impact. For me, development is not just about writing code — it’s about creating digital experiences that are memorable, accessible, and built to last.
+Hi, I’m Abdul. I'm a frontend developer with a strong focus on building web applications that balance modern technology with clean, intuitive design. I’m passionate about crafting user experiences that feel effortless yet engaging, where every detail contributes to both functionality and aesthetic impact. For me, development is not just about writing code, it’s about creating digital experiences that are memorable, accessible, and built to last.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulh4di/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.abdulhadi.io/)
